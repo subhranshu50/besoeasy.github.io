@@ -4,9 +4,6 @@ description:  "Aman Singh, is a full stack developer & hacking expert"
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "http://besoeasy.com" # the base hostname & protocol for your site
 permalink:    /:title
-github:       "besoeasy"
-twitter:      "twitter"
-email:        "besoeasy@protonmail.com"
 disqus-id:    "" #leave blank if you dont want comments.
 
 # Build settings

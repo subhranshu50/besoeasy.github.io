@@ -1,22 +1,37 @@
-<aside class="main-header">
-  <header class="module">
-    <h1><a href="/">{{ site.title }}</a></h1>
-  </header>
-  <div class="module color2">
-    {{ site.description }}
-  </div>
-  
-  <div class="module color3">
+<!-- Wrapper -->
+<div id="wrapper">
 
-<a href=https://github.com/besoeasy target=_blank>    
-<img src="https://png.icons8.com/github" /></a> 
+	<header id="header">
+		<div class="inner">
 
-<a href=https://fb.com/besoeasy target=_blank>    
-<img src="https://png.icons8.com/facebook" /></a> 
+			<!-- Logo -->
+			<a href="{{ site.baseurl }}/" class="logo">
+				<span class="symbol">
 
-<a href=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WMKJSZ6QTN38C target=_blank>    
-<img src="https://png.icons8.com/paypal" /></a>     
-    
- <br> Email : besoeasy@protonmail.com    
-  </div>
-</aside>
+					{% if site.font-awesome-icon-logo %}
+
+					<div href="#" class="icon style1 {{ site.font-awesome-icon-logo }}"></div>
+
+					{% else %}
+
+					<img src="{{ site.baseurl }}/{{ site.logo-image-url }}" alt="" />
+
+					{% endif %}
+
+				</span><span class="title">{{ site.title }}</span>
+			</a>
+			<!-- Nav -->
+			<nav>
+				<ul>
+					<li><a href="#menu">Menu</a></li>
+				</ul>
+			</nav>
+
+		</div>
+	</header>
+
+	{% include menu.html %}
+
+	<!-- Main -->
+	<div id="main">
+		<div class="inner">

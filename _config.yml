@@ -3,15 +3,15 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
+title: BeSoEasy
+email: besoeasy@protonmail.com
 description: A simple and awesome blog theme powered by jekyll.
 # the base hostname & protocol for your site
 # If your project is placed in https://github.com/yourname/yourname.github.io at master branch
 # Then, the 'url' is: http://yourname.github.io
 # If your project is placed in another repository as a gh-pages branch, like: https://github.com/yourname/projectname
 # Then, the 'url' is: http://yourname.github.io/projectname
-url:
+url: http://besoeasy.github.io
 
 #
 ###################################
@@ -35,14 +35,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: Renyuan
+  name: BeSoEasy
   avatar: avatar.jpg
-  job: "PHP & Ruby Developer"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-  email:
+  job: "Web Automation Expert"
+  bio: "Expert on Web Application & Hacking"
+  email: "besoeasy@protonmail.com"
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: "besoeasy"
   google:
     plus: #username
     analytics:
@@ -50,7 +50,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: "besoeasy"
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username

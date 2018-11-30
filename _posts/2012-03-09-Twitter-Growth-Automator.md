@@ -14,26 +14,26 @@ Twitter Growth Automator is a full automation bot, that grows your twitter prese
 
 ### Features
 
-1. Auto Follow
-2. Smart Unfollow
- 1. Unfollow Less Active
- 2. Unfollow Based On Conditions
-3. Smart Follow
-4. Follow People Based On
-  1. Hashtag
-  2. Trends
-  3. Location
-  4. Scraped Lists
-5. Smart Scraping Users  
-6. Auto Tweet
- 1. To New followers
- 2. Hot Topics
+* Auto Follow
+* Smart Unfollow
+   Unfollow Less Active
+   Unfollow Based On Conditions
+* Smart Follow
+* Follow People Based On
+   Hashtag
+   Trends
+   Location
+   Scraped Lists
+* Smart Scraping Users  
+* Auto Tweet
+  To New followers
+  Hot Topics
 
 
 Works On All Windows OS
 {: .notice}
 
-<div markdown="0"><a href="#" class="btn">Download</a></div
+<div markdown="0"><a href="#" class="btn">Download</a></div>
 {: .notice}
 
 >

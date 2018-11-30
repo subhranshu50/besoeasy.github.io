@@ -5,12 +5,7 @@
 #
 title: BeSoEasy
 email: besoeasy@protonmail.com
-description: All the Software Created By beSoEasy
-# the base hostname & protocol for your site
-# If your project is placed in https://github.com/yourname/yourname.github.io at master branch
-# Then, the 'url' is: http://yourname.github.io
-# If your project is placed in another repository as a gh-pages branch, like: https://github.com/yourname/projectname
-# Then, the 'url' is: http://yourname.github.io/projectname
+description: All the Software Created By BeSoEasy
 url: https://besoeasy.com
 
 #

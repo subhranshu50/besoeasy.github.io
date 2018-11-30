@@ -12,7 +12,28 @@ Twitter Growth Automator is a full automation bot, that grows your twitter prese
 
 
 
-Works On All Windows OS, Run It Under VMWARE for MAC & LINUX
+### Features
+
+1. Auto Follow
+2. Smart Unfollow
+ 1. Unfollow Less Active
+ 2. Unfollow Based On Conditions
+3. Smart Follow
+4. Follow People Based On
+  1. Hashtag
+  2. Trends
+  3. Location
+  4. Scraped Lists
+5. Smart Scraping Users  
+6. Auto Tweet
+ 1. To New followers
+ 2. Hot Topics
+
+
+Works On All Windows OS
 {: .notice}
 
-<div markdown="0"><a href="#" class="btn">Download</a></div>
+<div markdown="0"><a href="#" class="btn">Download</a></div
+{: .notice}
+
+>

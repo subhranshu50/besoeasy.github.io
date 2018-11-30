@@ -34,6 +34,4 @@ Works On All Windows OS
 {: .notice}
 
 <div markdown="0"><a href="#" class="btn">Download</a></div>
-{: .notice}
-
 >

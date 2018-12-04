@@ -12,6 +12,9 @@ pinned: true
 
 Twitter Growth Automate is a full automation bot, that grows your twitter presence by getting you more followers and targeting audience.
 
+### Screenshot
+Inline-style:
+![alt text](https://besoeasy.com/img/twitter1.png)
 
 
 ### Features

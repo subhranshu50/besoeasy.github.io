@@ -18,13 +18,13 @@ Instagram Growth Automate is a full automation bot, that grows your Instagram pr
  
 ### Guide
 
-RUNNING 
+> RUNNING 
 
 1> open the software exe file
 
 2> if antivirus popus up, allow the software to work, this is due to the fact bot uses heavy cpu power and tries to connect to Social media site servers, which looks suspicious to most antivirus.
  
-TELEGRAM NOTIFICATION 
+> TELEGRAM NOTIFICATION 
 
 1> Talk to @myidbot on telegram to see your Chat ID, put it in the bot.
 

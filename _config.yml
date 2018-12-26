@@ -1,63 +1,42 @@
-#
-###################################
-# Site wide configuration
-####################################
-#
-title: BeSoEasy
-email: besoeasy@protonmail.com
-description: All the Software Created By BeSoEasy
-url: https://besoeasy.com
+name: Your New Jekyll Site
+description: Blogging about stuffs
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
-#
-###################################
-# Jekyll configuration
-####################################
-#
-markdown:    kramdown
-highlighter:  rouge
-excerpt_separator: <!--more-->
+aboutPage: true
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+markdown: kramdown
+highlighter: rouge
 
-#
-###################################
-# Site Owner configuration
-####################################
-#
-owner:
-  name: BeSoEasy
-  avatar: avatar.jpg
-  job: "Web Application Expert"
-  bio: "Blockchain, Web Automation, Bots, Hacking Tools, Web Applications."
-  email: "besoeasy@protonmail.com"
-  disqus-shortname:
-  twitter: #username
-  facebook: "besoeasy"
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: "besoeasy"
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+plugins: [jekyll-paginate]
+paginate: 20
+domain_name: 'http://yourblog-domain.com'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://your-blog-url.example.com'
+author:         'Your Name'
+authorTwitter:  'YourTwitterUsername'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post

@@ -9,7 +9,7 @@ Instagram Growth Automate is a full automation bot, that grows your Instagram pr
 
 ### Screenshot
 
-https://github.com/besoeasy/besoeasy.github.io/raw/master/cdn/img/twitter1.png
+(https://github.com/besoeasy/besoeasy.github.io/raw/master/cdn/img/twitter1.png "Screenshot")
 
 
 ### Features
